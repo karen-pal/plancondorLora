@@ -1,7 +1,10 @@
-Contenidos:
+# Contenidos
 
-dataset usado para entrenar plancondorlora
-workflow para usar el lora en comfyui
+en este repositorio encontrarás:
+
+- el dataset usado para entrenar plancondorlora
+
+- workflow básico para usar el lora en comfyui
 
 ver video sobre cómo se usa:
 
@@ -11,10 +14,18 @@ ver video sobre cómo se usa:
       </a>
 </div>
 
-link a los modelos: kar-pal/plancondorLoRA
+- link a los modelos: kar-pal/plancondorLoRA
 
 https://huggingface.co/kar-pal/plancondorLoRA
 
 
 <img src="resultados.png"/>
+
+
+# to do
+- finetunear flux y fluxschnell que andan particularmente bien con texto
+- finetunear sd turbo
+- workflow para hacer text2video con lora
+- finetunear con mejor resolución
+- aumentar el dataset
 
